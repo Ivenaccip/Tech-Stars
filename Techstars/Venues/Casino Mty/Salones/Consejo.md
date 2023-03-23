@@ -1,0 +1,1 @@
+Capacidad: 30

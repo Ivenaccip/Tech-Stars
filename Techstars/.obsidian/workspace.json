@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4a74494dd586ac95",
+    "type": "split",
+    "children": [
+      {
+        "id": "392130dfe859c3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68d2c7ca4bc18c4",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Eventos Similares/Inc Mty 2022/Partners/Untitled database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa6d9efb08dcddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abdbb959795cbb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d026465810ae30b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a331bab809d6a9bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78a53fbfee954267",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96eca4f9d4fe1694",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20a4f6b95d7cfad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f22ad5d2ecad99b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eventos Similares/Inc Mty 2022/Partners/Untitled database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8f5bf79339deca0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eventos Similares/Inc Mty 2022/Partners/Untitled database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b4c5b5a5065739c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80c617beffbaa472",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eventos Similares/Inc Mty 2022/Partners/Untitled database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false
+    }
+  },
+  "active": "a68d2c7ca4bc18c4",
+  "lastOpenFiles": [
+    "Eventos Similares/Inc Mty 2022/Partners/Partners.md",
+    "Eventos Similares/Inc Mty 2022/Partners/Heineken.md",
+    "Eventos Similares/Inc Mty 2022/Media/Media Partners.md",
+    "Venues/SAFI Centro/Salones/Niza.md",
+    "Venues/SAFI Centro/Salones/Montecarlo.md",
+    "Venues/SAFI Centro/Salones/Milan.md",
+    "Venues/SAFI Centro/Salones/Genova.md",
+    "Venues/SAFI Centro/Salones/Verona.md",
+    "Venues/SAFI Centro/Salones disponibles.md",
+    "Eventos Similares/Inc Mty 2022/Partners/Untitled database.md",
+    "Eventos Similares/Talent Land/Aliados/Aliados.md",
+    "Eventos Similares/Talent Land/Patrocinadores/Bronce/Bronce.md",
+    "Eventos Similares/Talent Land/Aliados",
+    "Eventos Similares/Talent Land/Patrocinadores",
+    "Eventos Similares/Talent Land/Patrocinadores/Silver/Silver.md",
+    "Eventos Similares/Talent Land/Patrocinadores/Bronce",
+    "Eventos Similares/Talent Land/Patrocinadores/Silver",
+    "Eventos Similares/Talent Land/Patrocinadores/Gold/Gold.md",
+    "Eventos Similares/Talent Land/Patrocinadores/Gold",
+    "Eventos Similares/Talent Land/Patrocinadores/Premium",
+    "Eventos Similares/Talent Land/Patrocinadores/Institucional",
+    "Eventos Similares/Talent Land/Patrocinadores/Premium/Premium.md",
+    "Eventos Similares/Talent Land/Patrocinadores/Institucional/Institucional.md",
+    "Eventos Similares/Talent Land/Patrocinadores/Institucional",
+    "Eventos Similares/Talent Land",
+    "Venues/Pabellón M/Información encontrada.md",
+    "Untitled.canvas",
+    "Eventos Similares/Inc Mty 2022/Media",
+    "Eventos Similares/Inc Mty 2022/Aliados/Aliados.md",
+    "Venues/Casino Mty/Salones disponibles.md",
+    "Venues/Casino Mty/Información encontrada.md",
+    "Venues/Casino Mty/Salones/Terraza.md",
+    "Venues/Casino Mty/Salones/Fundadores.md",
+    "Venues/Casino Mty/Salones/Gala.md",
+    "Venues/Casino Mty/Salones/Gran Salón Gala.md",
+    "Venues/Casino Mty/Salones/Gran Plaza.md",
+    "Venues/Casino Mty/Salones/Consejo.md",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322182336.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322182237.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322182134.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322182023.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181852.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181742.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181548.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181447.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181340.png",
+    "Venues/SAFI Centro/Imagenes/Pasted image 20230322181107.png"
+  ]
+}

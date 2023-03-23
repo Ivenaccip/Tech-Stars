@@ -1,0 +1,1 @@
+No cinciden los metros cuadrados de la imagen y los que muestran abajo
